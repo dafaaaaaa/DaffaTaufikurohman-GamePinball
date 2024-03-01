@@ -361,6 +361,7 @@
 "Assets/Script/LauncherController.cs"
 "Assets/Script/MainMenuUIController.cs"
 "Assets/Script/PaddleController.cs"
+"Assets/Script/RampController.cs"
 "Assets/Script/ScoreManager.cs"
 "Assets/Script/ScoreUIController.cs"
 "Assets/Script/SFXAudioController.cs"

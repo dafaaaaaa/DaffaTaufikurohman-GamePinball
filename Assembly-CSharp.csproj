@@ -70,6 +70,7 @@
     <Compile Include="Assets\Script\PaddleController.cs" />
     <Compile Include="Assets\Script\TriggerZoominController.cs" />
     <Compile Include="Assets\Script\ScoreManager.cs" />
+    <Compile Include="Assets\Script\RampController.cs" />
     <Compile Include="Assets\Script\TriggerRampController.cs" />
     <Compile Include="Assets\Script\GameOverUIController.cs" />
     <Compile Include="Assets\Script\TriggerGameOver.cs" />

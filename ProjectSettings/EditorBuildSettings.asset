@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pinball Level 2.unity
     guid: 83a80a600787df84a964a0c796cb4290
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 3c3c1d6ac4d515849a4d6045ae05d9b0
   m_configObjects: {}

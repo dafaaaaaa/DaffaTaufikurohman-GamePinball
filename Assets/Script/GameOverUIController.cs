@@ -17,6 +17,6 @@ public class GameOverUIController : MonoBehaviour
   public void MainMenu()
   {
 		// kembali ke main menu
-    SceneManager.LoadScene("MainMenu");
+    SceneManager.LoadScene("Credit");
   }
 }
